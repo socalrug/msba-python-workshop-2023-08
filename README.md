@@ -1,5 +1,5 @@
 # Introduction to Python for the UCI-MSBA program, August 2023
-*This workshop is a joint collaboration between the [Southern California R Users Group (SoCal RUG)]([https://www.meetup.com/SOCAL-RUG/](https://socalr.org/)) and the [UCI Paul Merage School of Business](https://merage.uci.edu/), Masters of Science in Business Analytics (MSBA)*
+*This workshop is a joint collaboration between the [Southern California R Users Group (SoCal RUG)](https://socalr.org/) and the [UCI Paul Merage School of Business](https://merage.uci.edu/), Masters of Science in Business Analytics (MSBA)*
 
 In this workshop, a basic introduction to Python will be presented covering fundamentals of Python programming and practical data science skills using the `pandas` Python library.
 
