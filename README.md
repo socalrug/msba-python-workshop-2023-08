@@ -10,7 +10,7 @@ In this workshop, a basic introduction to Python will be presented covering fund
 
 ### Location
 
-[Zoom](https://uci.zoom.us/j/5756094458)
+Online - Zoom link [here](https://uci.zoom.us/j/5756094458)
 
 ## Prerequisites
 * Before the workshop starts, you will need Python and VScode (including some extensions) installed on your computer
