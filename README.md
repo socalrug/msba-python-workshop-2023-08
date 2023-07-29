@@ -24,7 +24,7 @@ Online - Zoom link [here](https://uci.zoom.us/j/5756094458)
     * 15 min practice in breakout rooms
     * Teaching assistants will be assigned to breakout rooms
     * 10 min review & questions
-* 4 sessions per day (160 min for sessions + 10 min break + 10 min wrap-up)
+* 4 sessions per day (160 min for sessions + two 10 min breaks)
     * Eight sessions total for both days
 
 ## Instructor
