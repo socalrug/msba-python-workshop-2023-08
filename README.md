@@ -1,7 +1,5 @@
-# Python Workshop, August 2023
-
-## Introduction to Python for the MSBA program
-*This workshop is a joint collaboration between the [Southern California R Users Group (SoCal RUG)](https://www.meetup.com/SOCAL-RUG/) and the [UCI Paul Merage School of Business](https://merage.uci.edu/), Masters of Science in Business Analytics (MSBA)*
+# Introduction to Python for the UCI-MSBA program, August 2023
+*This workshop is a joint collaboration between the [Southern California R Users Group (SoCal RUG)]([https://www.meetup.com/SOCAL-RUG/](https://socalr.org/)) and the [UCI Paul Merage School of Business](https://merage.uci.edu/), Masters of Science in Business Analytics (MSBA)*
 
 In this workshop, a basic introduction to Python will be presented covering fundamentals of Python programming and practical data science skills using the `pandas` Python library.
 
@@ -28,19 +26,17 @@ In this workshop, a basic introduction to Python will be presented covering fund
     * 10 min review & questions
 * 4 sessions per day (160 min for sessions + 10 min break + 10 min wrap-up)
     * Eight sessions total for both days
-* [RStudio Cloud Project](https://rstudio.cloud/spaces/256813/join?access_code=ySP5krHpYeQpLw0KrB1pzUn41uVXp2hQ7nR138JT). This is where you will do your coding. 
+
+## Instructor
+**Bryan Mariscal**, Engineering Specialist in the Structural Dynamics Department at The Aerospace Corporation.
+Bryan Mariscal is an Engineering Specialist in the Structural Dynamics Department at The Aerospace Corporation, where he performs computational simulations, data analysis, and software development in support of National Security Space programs. He previously spent some time at Tecolote Research as a Data Scientist supporting Space Systems Command cost research efforts, and earned BS and MS degrees in Structural Engineering from UC San Diego.
+
 ## Schedule
-
-The two-day workshop will be presented as 4 sessions each day, where each session is roughly divided into 15 minutes of instruction, 15 minutes of practice and exercises, and 10 minutes of review (~40 min per session).
-
 ### Thursday August 3: Python Fundamentals
 
 The focus will be on Python as a language, drawing from the [Python docs](https://docs.python.org/3/).
 
-Instructor: [Bryan Mariscal](), Engineering Specialist in the Structural Dynamics Department at The Aerospace Corporation.
-Bryan Mariscal is an Engineering Specialist in the Structural Dynamics Department at The Aerospace Corporation, where he performs computational simulations, data analysis, and software development in support of National Security Space programs. He previously spent some time at Tecolote Research as a Data Scientist supporting Space Systems Command cost research efforts, and earned BS and MS degrees in Structural Engineering from UC San Diego.
-
-* Session 1: Using JupyterLab Notebooks
+* Session 1: Using Python, VSCode and Jupyter Notebooks
     * What is a notebook, why are they useful?
     * JupyterLab interface
     * Working with cells (creating, executing, cell types, etc)
