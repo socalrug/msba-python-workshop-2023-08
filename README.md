@@ -28,7 +28,8 @@ Online - Zoom link [here](https://uci.zoom.us/j/5756094458)
     * Eight sessions total for both days
 
 ## Instructor
-**Bryan Mariscal**, Engineering Specialist in the Structural Dynamics Department at The Aerospace Corporation.
+**Bryan Mariscal**, Engineering Specialist in the Structural Dynamics Department at The Aerospace Corporation.   
+
 Bryan Mariscal is an Engineering Specialist in the Structural Dynamics Department at The Aerospace Corporation, where he performs computational simulations, data analysis, and software development in support of National Security Space programs. He previously spent some time at Tecolote Research as a Data Scientist supporting Space Systems Command cost research efforts, and earned BS and MS degrees in Structural Engineering from UC San Diego.
 
 ## Schedule
