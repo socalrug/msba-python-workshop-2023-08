@@ -1,12 +1,25 @@
 # Setting up Python and VS Code
 
+- [Setting up Python and VS Code](#setting-up-python-and-vs-code)
+  - [Overview](#overview)
+  - [Python](#python)
+    - [Installing Python](#installing-python)
+      - [Windows](#windows)
+      - [macOS](#macos)
+  - [VS Code](#vs-code)
+    - [Installing VS Code](#installing-vs-code)
+    - [Installing VS Code Extensions](#installing-vs-code-extensions)
+  - [Installing Python Packages](#installing-python-packages)
+  - [Resources](#resources)
+
+
 ## Overview
 
-In this tutorial, you will learn how to install Python, VS Code and the VS Code Extensions needed to be succesful in running the material for the Workshop.  
+In this tutorial, you will learn how to install Python, VS Code, VS Code Extensions and packages needed to be succesful in running the material for the Workshop.  
 
 Note that VS Code is only one of many different Integrated Development Environments (IDE) and there are different ways to install Python.. This tutorial is meant to be as simple as possible and for a first time install. If you have already installed Python and have a preferred IDE, you can use your setup to run the material for the Workshop.
 
-### Python
+## Python
 
 Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability
 
@@ -25,18 +38,18 @@ Python is a high-level, general-purpose programming language. Its design philoso
     * ```xcode-select --install```
   * You'll get a pop-up prompting you to install command line developer tools. Choose Install to continue.
 
-### VS Code
+## VS Code
 
 Visual Studio Code (aka VS Code) is a general-purpose free code editor developed by Microsoft. It can be run locally on Windows, macOS, and Linux OSs or on a cloud environment. The main advantages of using VS Code as your IDE are:
 
 * Multi-languages - VS Code supports out-of-the-box JavaScript, TypeScript, and Node.js, and has a variety of extensions that enable running other programming languages such as Python, R, etc.
 * Extensions - VS Code has a large community support that builds and maintains a variety of extensions that extend the editor's capabilities and functionality. That includes extensions that support programming languages (such as Python, R, and Julia), plugs-in that enables connection with external applications (Git, Docker, Postgres, etc.), and other applications.
 
-#### Installing VScode
+### Installing VS Code
 
 Installing VScode is straightforward - go to the VScode website https://code.visualstudio.com/ and click on the Download button. Download the installation file and follow the instructions.
 
-#### Installing VScode Extensions
+### Installing VS Code Extensions
 
 To work with Python inside VS Code, you need to use Extensions, which include many useful features.
 
@@ -63,7 +76,16 @@ Once the extension is installed, you have to select a Python interpreter. -> Sel
 
 ![](Jupyter.png)
 
+## Installing Python Packages
 
+During the workshop we will use `jupyter notebooks` to run the interactive lectures and will use the `pandas` library. To ins
+
+* Open VS Code
+* Select Terminal -> New Terminal
+* On the terminal type the following (this will install the packages):
+  * `pip install --upgrade pip`
+  * `pip install jupyterlab`
+  * `pip install pandas`
 
 ## Resources
 
