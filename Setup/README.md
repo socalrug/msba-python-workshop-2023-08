@@ -78,7 +78,7 @@ Once the extension is installed, you have to select a Python interpreter. -> Sel
 
 ## Installing Python Packages
 
-During the workshop we will use `jupyter notebooks` to run the interactive lectures and will use the `pandas` library. To ins
+During the workshop we will use `jupyter notebooks` to run the interactive lectures and will use the `pandas` library. To install the packages do the following:
 
 * Open VS Code
 * Select Terminal -> New Terminal
